@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a skilled **Data Analyst** with a strong backg
 
 ## 🚀 About Me
 - 🔍 **Core Strengths:** Data Analysis, Product Management
-- 🎯 **Focus Areas:** Advanced Data Analysis, Product Strategy, Business Intelligence, and Digital Marketing
+- 🎯 **Focus Areas:** Advanced Data Analysis & Visualizing Insights, Product Strategy, Business Intelligence
 - 📊 **Expertise:** Transforming data into strategic insights, guiding product development, and driving continuous improvement.
 
 ## 🛠️ My Skills

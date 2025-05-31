@@ -1,4 +1,4 @@
-# Hello, I'm MD Alqurayish Sharkar 👋
+# Hello, I'm Md Alqurayish Sharkar 👋
 
 Welcome to my GitHub profile! I'm a skilled **Data Analyst** with a strong background in data analysis, visualization, and strategic decision-making. My expertise lies in turning complex datasets into actionable insights that drive business growth. Alongside my analytical skills, I also have valuable experience as a **Product Manager**, where I contribute to product strategy, planning, and lifecycle management.
 

@@ -1,17 +1,27 @@
-# Hello, I'm Md Alqurayish Sharkar 👋
+# Hi, I’m Md Alqurayish Sharkar 👋
 
-Welcome to my GitHub profile! I'm a skilled **Data Analyst** with a strong background in data analysis, visualization, and strategic decision-making. My expertise lies in turning complex datasets into actionable insights that drive business growth. Alongside my analytical skills, I also have valuable experience as a **Product Manager**, where I contribute to product strategy, planning, and lifecycle management.
+Data Analyst (5+ yrs) | Product Manager (3+ yrs) | Aspiring Data Scientist  
+Building data-driven products, analytics systems, and intelligent workflows.
 
 ## 🚀 About Me
-- 🔍 **Core Strengths:** Data Analysis, Product Management
-- 🎯 **Focus Areas:** Advanced Data Analysis & Visualizing Insights, Product Strategy, Business Intelligence
-- 📊 **Expertise:** Transforming data into strategic insights, guiding product development, and driving continuous improvement.
+I translate complex datasets into actionable insights and build products from idea to global launch.  
+Experienced in **end-to-end data delivery**, **product lifecycle ownership**, and **analytics-led growth**.  
+Currently expanding into **Data Science & AI automation**, focusing on practical, production-ready solutions.
 
-## 🛠️ My Skills
-- **Programming Languages:** Python, SQL
-- **Data Analysis & Visualization:** Tableau, Power BI, Looker Studio, MS Excel, Google Data Studio, G-sheet
-- **Product Management:** Roadmapping, Stakeholder Management, Agile Methodologies, Jira
-- **Tools:** Figma, AWS, GA4, VBA Macros
+## 🧠 What I Do Best
+- Data analysis, BI, and decision intelligence  
+- Product strategy, roadmaps, and tech-team leadership  
+- KPI-driven growth, adoption, and optimization  
+- AI-assisted workflow automation (LLMs, RAG fundamentals)
+
+## 🛠 Tech & Skills
+**Data & Analytics:** SQL, Python, Excel, Google Sheets, Power BI, Looker Studio, Metabase, GA4  
+**Product Management:** PRDs, roadmapping, prioritization, Agile/Scrum, Jira, stakeholder coordination  
+**Cloud & Tools:** AWS (EC2, S3, Lambda), Git, Figma  
+**AI & Automation:** Prompt engineering, AI workflows, LLM agents, RAG basics
+
+## 📌 Domains
+Automotive • Fintech • Hospitality/HRM • SaaS
 
 ## 📫 Get in Touch
 - [LinkedIn](https://linkedin.com/in/alqurayishsharkar)

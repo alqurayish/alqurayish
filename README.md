@@ -1,30 +1,78 @@
-# Hi, I’m Md Alqurayish Sharkar 👋
+# Md Alqurayish Sharkar
 
-Data Analyst (5+ yrs) | Product Manager (3+ yrs) | Aspiring Data Scientist  
-Building data-driven products, analytics systems, and intelligent workflows.
+**Data Scientist · Product Manager · AI Builder**
 
-## 🚀 About Me
-I translate complex datasets into actionable insights and build products from idea to global launch.  
-Experienced in **end-to-end data delivery**, **product lifecycle ownership**, and **analytics-led growth**.  
-Currently expanding into **Data Science & AI automation**, focusing on practical, production-ready solutions.
+5+ years delivering data analytics, AI automation, and 
+SaaS products across UK · UAE · Germany · US — fully remote.
 
-## 🧠 What I Do Best
-- Data analysis, BI, and decision intelligence  
-- Product strategy, roadmaps, and tech-team leadership  
-- KPI-driven growth, adoption, and optimization  
-- AI-assisted workflow automation (LLMs, RAG fundamentals)
+---
 
-## 🛠 Tech & Skills
-**Data & Analytics:** SQL, Python, Excel, Google Sheets, Power BI, Looker Studio, Metabase, GA4  
-**Product Management:** PRDs, roadmapping, prioritization, Agile/Scrum, Jira, stakeholder coordination  
-**Cloud & Tools:** AWS (EC2, S3, Lambda), Git, Figma  
-**AI & Automation:** Prompt engineering, AI workflows, LLM agents, RAG basics
+## What I Build
 
-## 📌 Domains
-Automotive • Fintech • Hospitality/HRM • SaaS
+- **Data & Analytics** — SQL pipelines, Python analysis, 
+  Power BI / Looker Studio / Tableau dashboards that drive 
+  real decisions. Built 45+ dashboards for a UK workforce 
+  platform managing 800+ staff across 81 clients.
 
-## 📫 Get in Touch
-- [LinkedIn](https://linkedin.com/in/alqurayishsharkar)
-- [Website](https://www.d-sai.com/)
+- **AI Agents & Automation** — Production RAG pipelines, 
+  LLM agents, and workflow automation through 
+  [D-SAi](https://www.d-sai.com). 
+  LLM evaluator at Turing for frontier AI models.
 
-Thank you for visiting my profile! I’m open to connecting with professionals and exploring new data analysis and product management opportunities.
+- **SaaS Products** — Led [Plagit](https://www.plagit.com) 
+  from idea to live market across UK, UAE, and Italy. 
+  Onboarding cut from 14 days → 5 days. Uptime +25%.
+
+- **Workforce SaaS** — Product Owner at 
+  [ScanRoster](https://scanroster.com) — 
+  QR-based workforce management, UK-registered.
+
+---
+
+## Tech Stack
+
+```python
+languages   = ["Python", "SQL"]
+analytics   = ["Power BI", "Tableau", "Looker Studio", 
+               "Metabase", "GA4", "Excel"]
+cloud       = ["AWS (EC2, S3, Lambda)", "Git"]
+ai          = ["LangChain", "OpenAI API", "Anthropic API",
+               "RAG Pipelines", "LLM Evaluation"]
+product     = ["Figma", "Jira", "Notion", 
+               "Agile/Scrum", "PRDs", "Roadmapping"]
+```
+
+---
+
+## Currently Building
+
+| Company | Role | Focus |
+|---|---|---|
+| [D-SAi](https://www.d-sai.com) | Founder | AI agents, RAG, LLM automation |
+| [ScanRoster](https://scanroster.com) | Product Owner | QR workforce SaaS, UK |
+
+---
+
+## Industries
+
+`Fintech` `Hospitality` `SaaS` `Workforce Management` 
+`AI & LLM` `HR Operations` `Automotive`
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-
+alqurayishsharkar-blue?style=flat&logo=linkedin)](
+https://linkedin.com/in/alqurayishsharkar)
+[![Website](https://img.shields.io/badge/Website-
+d--sai.com-green?style=flat&logo=google-chrome)](
+https://www.d-sai.com)
+[![Email](https://img.shields.io/badge/Email-
+alqurayish@gmail.com-red?style=flat&logo=gmail)](
+mailto:alqurayish@gmail.com)
+
+---
+
+*Open to remote roles and freelance projects in 
+data science, AI automation, and product management.*

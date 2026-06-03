@@ -62,15 +62,9 @@ product     = ["Figma", "Jira", "Notion",
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-
-alqurayishsharkar-blue?style=flat&logo=linkedin)](
-https://linkedin.com/in/alqurayishsharkar)
-[![Website](https://img.shields.io/badge/Website-
-d--sai.com-green?style=flat&logo=google-chrome)](
-https://www.d-sai.com)
-[![Email](https://img.shields.io/badge/Email-
-alqurayish@gmail.com-red?style=flat&logo=gmail)](
-mailto:alqurayish@gmail.com)
+LinkedIn: https://linkedin.com/in/alqurayishsharkar/
+Website: https://www.d-sai.com/
+Email: alqurayish@gmail.com)
 
 ---
 

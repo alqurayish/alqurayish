@@ -48,8 +48,8 @@ product     = ["Figma", "Jira", "Notion",
 
 | Company | Role | Focus |
 |---|---|---|
-| [D-SAi](https://www.d-sai.com) | Founder | AI agents, RAG, LLM automation |
-| [ScanRoster](https://scanroster.com) | Product Owner | QR workforce SaaS, UK |
+| [D-SAi](https://www.d-sai.com) | Founder | Data Scientist & Product Manager | AI agents, RAG, LLM automation |
+| [ScanRoster](https://scanroster.com) | Managing Director | Product & Growth | QR workforce SaaS, UK |
 
 ---
 

@@ -22,7 +22,7 @@ With 7+ years of hands-on experience across data analytics, business intelligenc
  
 | Product | What it does |
 |---|---|
-| **Career+ +** | Currently in development |
+| **Career +** | Currently in development |
 | **Retain CLM** | AI-powered customer lifecycle management — currently in development |
  
 ---

@@ -2,7 +2,7 @@
  
 **Founder · Data Scientist · Product Manager · AI Builder**
  
-I build data-driven products and AI systems that solve real business problems — from production-ready ML pipelines to end-to-end SaaS products used by teams across the UK, UAE, US, and EU.
+I build data-driven products and AI systems that solve real business problems - from production-ready ML pipelines to end-to-end SaaS products used by teams across the UK, UAE, US, and EU.
  
 With 7+ years of hands-on experience across data analytics, business intelligence, and product management, I sit at the intersection of three disciplines most people treat separately. I use data to understand problems, AI to automate solutions, and product thinking to make sure what gets built actually gets used.
  
@@ -22,7 +22,7 @@ With 7+ years of hands-on experience across data analytics, business intelligenc
  
 | Product | What it does |
 |---|---|
-| **Carrier +** | Currently in development |
+| **Career+ +** | Currently in development |
 | **Retain CLM** | AI-powered customer lifecycle management — currently in development |
  
 ---
@@ -55,7 +55,7 @@ Cloud & Engineering   →  AWS (EC2 · S3 · Lambda) · REST APIs · ETL/ELT · 
 - 📊 Customer churn prediction + auto-retention system
 - 🚀 Launching **Kitchen Ledgers** — restaurant management system
 - 🔁 Developing **Retain CLM** — AI-powered customer lifecycle management
-- ✈️ Building **Carrier +**
+- ✈️ Building **Career+ +**
 ---
  
 ## 📌 Tech Stack

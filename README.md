@@ -81,6 +81,6 @@ Cloud & Engineering   →  AWS (EC2 · S3 · Lambda) · REST APIs · ETL/ELT · 
  
 ---
  
-> *"Building AI products and data systems that solve real problems — from Bangladesh, for the world."*
+> *"Building AI products and data systems that solve real Business problems."*
  
 ![Profile Views](https://komarev.com/ghpvc/?username=alqurayish&color=2563EB&style=flat)

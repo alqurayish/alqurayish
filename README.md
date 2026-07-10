@@ -1,72 +1,84 @@
-# Md Alqurayish Sharkar
-
-**Data Scientist · Product Manager · AI Builder**
-
-5+ years delivering data analytics, AI automation, and 
-SaaS products across UK · UAE · Germany · US — fully remote.
-
+# Hi, I'm Md Alqurayish Sharkar
+ 
+**Founder · Data Scientist · Product Manager · AI Builder**
+ 
+I build data-driven products and AI systems that solve real business problems — from production-ready ML pipelines to end-to-end SaaS products used by teams across the UK, UAE, US, and EU.
+ 
 ---
-
-## What I Build
-
-- **Data & Analytics** — SQL pipelines, Python analysis, 
-  Power BI / Looker Studio / Tableau dashboards that drive 
-  real decisions. Built 45+ dashboards for a UK workforce 
-  platform managing 800+ staff across 81 clients.
-
-- **AI Agents & Automation** — Production RAG pipelines, 
-  LLM agents, and workflow automation through 
-  [D-SAi](https://www.d-sai.com). 
-  LLM evaluator at Turing for frontier AI models.
-
-- **SaaS Products** — Led [Plagit](https://www.plagit.com) 
-  from idea to live market across UK, UAE, and Italy. 
-  Onboarding cut from 14 days → 5 days. Uptime +25%.
-
-- **Workforce SaaS** — Product Owner at 
-  [ScanRoster](https://scanroster.com) — 
-  QR-based workforce management, UK-registered.
-
----
-
-## Tech Stack
-
-```python
-languages   = ["Python", "SQL"]
-analytics   = ["Power BI", "Tableau", "Looker Studio", 
-               "Metabase", "GA4", "Excel"]
-cloud       = ["AWS (EC2, S3, Lambda)", "Git"]
-ai          = ["LangChain", "OpenAI API", "Anthropic API",
-               "RAG Pipelines", "LLM Evaluation"]
-product     = ["Figma", "Jira", "Notion", 
-               "Agile/Scrum", "PRDs", "Roadmapping"]
-```
-
----
-
-## Currently Building
-
-| Company | Role | Focus |
+ 
+## 🏢 What I'm Building
+ 
+| Company | Role | What it is |
 |---|---|---|
-| [D-SAi](https://www.d-sai.com) | Founder | Data Scientist & Product Manager | AI agents, RAG, LLM automation |
-| [ScanRoster](https://scanroster.com) | Managing Director | Product & Growth | QR workforce SaaS, UK |
-
+| **[D-SAi](https://d-sai.com)** | Founder & Data Scientist | Software development & data science company — delivering AI automation, data science, and product solutions for global clients |
+| **[ScanRoster](https://scanroster.com)** | Founder & Managing Director | QR-based workforce management SaaS · UK registered · saves businesses 50+ hrs/month |
+| **[Kitchen Ledgers](https://kitchenledgers.com/) ** | Managing Director | Restaurant management system — launching soon |
+ 
 ---
-
-## Industries
-
-`Fintech` `Hospitality` `SaaS` `Workforce Management` 
-`AI & LLM` `HR Operations` `Automotive`
-
+ 
+## 🚀 Upcoming Products
+ 
+| Product | What it does |
+|---|---|
+| **Carrier +** | Currently in development |
+| **Retain CLM** | AI-powered customer lifecycle management — currently in development |
+ 
 ---
-
-## Connect
-
-LinkedIn: https://linkedin.com/in/alqurayishsharkar/
-Website: https://www.d-sai.com/
-Email: alqurayish@gmail.com)
-
+ 
+## 💼 Major Client Work Delivered
+ 
+**Plagit** — Hospitality Staffing SaaS (UK · UAE · Italy)
+> Product Manager & Analyst · Zero to live market across 3 countries · Booking, payroll, job marketplace, multi-property ops
+ 
+**MH Premier Staffing Solutions** — UK
+> Data Analyst · 45+ dashboards · 800+ staff · 81 clients · 25% payroll error reduction · 10 hrs/week saved
+ 
 ---
-
-*Open to remote roles and freelance projects in 
-data science, AI automation, and product management.*
+ 
+## 🧠 What I Do
+ 
+```
+Data Science        →  Python · Pandas · NumPy · Scikit-learn · XGBoost · EDA · Predictive Modelling
+Business Intelligence → SQL · Power BI · Looker Studio · Metabase · GA4 · KPI Frameworks
+AI & LLM            →  LLM Agents · RAG Pipelines · LangChain · Prompt Engineering · LLM Evaluation
+Product Management  →  PRDs · Roadmapping · Agile/Scrum · UAT · GTM · OKRs · Sprint Planning
+Cloud & Engineering →  AWS (EC2 · S3 · Lambda) · REST APIs · ETL/ELT · Data Pipelines · Git
+```
+ 
+---
+ 
+## 🌍 Currently Working On
+ 
+- 🤖 Building AI agents and RAG systems for clients at **D-SAi**
+- 📊 Customer churn prediction + auto-retention system
+- 🚀 Launching **Kitchen Ledgers** — restaurant management system
+- 🔁 Developing **Retain CLM** — AI-powered customer lifecycle management
+- ✈️ Building **Carrier Plus**
+---
+ 
+## 📌 Tech Stack
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+ 
+---
+ 
+## 🤝 Let's Connect
+ 
+| | |
+|---|---|
+| 🌐 Website | [d-sai.com](https://d-sai.com) |
+| 💼 LinkedIn | [linkedin.com/in/alqurayishsharkar](https://linkedin.com/in/alqurayishsharkar) |
+| 📧 Email | alqurayish@gmail.com |
+| 📱 Mobile | +880 177 305 8333 |
+ 
+---
+ 
+> *"Building AI products and data systems that solve real problems — from Bangladesh, for the world."*
+ 
+![Profile Views](https://komarev.com/ghpvc/?username=alqurayish&color=2563EB&style=flat)

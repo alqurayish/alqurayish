@@ -3,7 +3,11 @@
 **Founder · Data Scientist · Product Manager · AI Builder**
  
 I build data-driven products and AI systems that solve real business problems — from production-ready ML pipelines to end-to-end SaaS products used by teams across the UK, UAE, US, and EU.
- 
+
+With 7+ years of hands-on experience across data analytics, business intelligence, and product management, I sit at the intersection of three disciplines most people treat separately. I use data to understand problems, AI to automate solutions, and product thinking to make sure what gets built actually gets used.
+
+What I build and deliver:
+As Founder of D-SAi, I deliver software development, data science, and AI automation for global clients — from RAG pipelines and LLM agents to end-to-end product builds. As Founder of ScanRoster, I built a QR-based workforce management SaaS from zero to live, saving businesses 50+ hours per month. As Product Manager at Plagit, I took a hospitality SaaS platform from concept to live market across the UK, UAE, and Italy. Also, working as a Data Analyst at Analytic Company GmbH (Germany),
 ---
  
 ## 🏢 What I'm Building

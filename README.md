@@ -1,6 +1,6 @@
 # Hi, I'm Md Alqurayish Sharkar
  
-**Founder · Data Scientist · Product Manager · AI Builder**
+**Founder · Data Scientist · Product Engineer **
  
 I build data-driven products and AI systems that solve real business problems - from production-ready ML pipelines to end-to-end SaaS products used by teams across the UK, UAE, US, and EU.
  

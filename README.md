@@ -11,8 +11,7 @@
 <a href="https://www.linkedin.com/in/alqurayishsharkar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://d-sai.com"><img src="https://img.shields.io/badge/D--SAi-00707E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="D-SAi"/></a>
 <a href="mailto:alqurayish@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=alqurayish&style=for-the-badge&color=0F2A5C&label=PROFILE+VIEWS" alt="Profile views"/>
-
+<img src="https://api.visitorbadge.io/api/visitors?path=github.com%2Falqurayish&label=PROFILE%20VIEWS&labelColor=%230F2A5C&countColor=%2300707E&style=for-the-badge" alt="Profile views"/>
 </div>
 
 ---

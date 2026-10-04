@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2A5C,50:00707E,100:2563EB&height=210&section=header&text=Md%20Alqurayish%20Sharkar&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=AI%20Product%20Engineer%20%7C%20Founder%2C%20D-SAi&descSize=18&descAlignY=58" width="100%" alt="Md Alqurayish Sharkar, AI Product Engineer"/>
 
 <a href="https://d-sai.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00A6B5&center=true&vCenter=true&width=640&lines=I+build+AI+products+that+solve+real+business+problems.;LLMs+%E2%80%A2+AI+Agents+%E2%80%A2+RAG+%E2%80%A2+Machine+Learning;From+first+customer+conversation+to+production." alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00A6B5&center=true&vCenter=true&width=820&lines=I+build+AI+products+that+solve+real+business+problems.;LLMs+%E2%80%A2+AI+Agents+%E2%80%A2+RAG+%E2%80%A2+Machine+Learning;From+first+customer+conversation+to+production." alt="Typing intro"/>
 </a>
 
 <br/>
@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/alqurayishsharkar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://d-sai.com"><img src="https://img.shields.io/badge/D--SAi-00707E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="D-SAi"/></a>
 <a href="mailto:alqurayish@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=alqurayish&style=for-the-badge&color=0F2A5C&label=PROFILE+VIEWS" alt="Profile views"/>
+
 </div>
 
 ---
@@ -20,13 +20,13 @@
 
 I'm an **AI Product Engineer** and the **Founder of [D-SAi](https://d-sai.com)**, a data science, AI, and software company.
 
-I design, build, and ship AI products end to end: customer discovery, system design, UI/UX, LLM integration, machine learning, and launch. With 7+ years across product development, data science, and product management, I work where data, AI, and product meet. I only add AI where it creates real business value, and I judge it by whether it works in production, not in a demo.
+I design, build, and ship AI products end-to-end: customer discovery, system design, UI/UX, LLM integration, machine learning, and launch. With 7+ years across product development, data science, and product management, I work where data, AI, and product meet. I only add AI where it creates real business value, and I judge it by whether it works in production, not in a demo.
 
 ```yaml
 name:        Md Alqurayish Sharkar
 role:        AI Product Engineer · Founder @ D-SAi
 based_in:    Dhaka, Bangladesh  (open to remote)
-leads:       8 person product engineering team
+leads:       8-person product engineering team
 builds:      [AI products, AI agents, LLM workflows, business automation]
 delivered_for: [UK, Germany, UAE, USA]
 focus_now:   [LLM products, agentic workflows, churn prediction, RAG]
@@ -51,7 +51,7 @@ Predicts customer churn with machine learning, scores customer health live, and 
 <td width="50%" valign="top">
 
 #### [InboxPulse](https://inboxpulse.d-sai.com)
-**AI powered shared WhatsApp inbox**
+** AI-powered shared WhatsApp inbox**
 
 A team inbox on the Meta WhatsApp Business API with LLM reply suggestions, AI conversation summaries, and sentiment detection.
 
@@ -65,7 +65,7 @@ A team inbox on the Meta WhatsApp Business API with LLM reply suggestions, AI co
 #### [ScanRoster](https://www.scanroster.com)
 **Workforce management for hospitality**
 
-Fraud proof attendance with rotating QR codes, geofencing, and device binding, plus automatic shift cover and multi country payroll.
+Fraud-proof attendance with rotating QR codes, geofencing, and device binding, plus automatic shift cover and multi country payroll.
 
 `Hospitality` `Payroll` `Compliance` `SaaS`
 

@@ -20,7 +20,7 @@
 
 I'm an **AI Product Engineer** and the **Founder of [D-SAi](https://d-sai.com)**, a data science, AI, and software company.
 
-I design, build, and ship AI products end-to-end: customer discovery, system design, UI/UX, LLM integration, machine learning, and launch. With 7+ years across product development, data science, and product management, I work where data, AI, and product meet. I only add AI where it creates real business value, and I judge it by whether it works in production, not in a demo.
+I design, build, and ship products end-to-end: customer discovery, system design, UI/UX, LLM integration, machine learning, and launch. With 7+ years across product development, data science, and product management, I work where data, AI, and product meet. I only add AI where it creates real business value, and I judge it by whether it works in production, not in a demo.
 
 ```yaml
 name:        Md Alqurayish Sharkar
